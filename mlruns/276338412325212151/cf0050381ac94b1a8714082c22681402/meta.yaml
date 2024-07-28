@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/ML%20Ops%20Workspace/4-mlflow/Loan%20Eligibillity%20Prediction%203/mlruns/276338412325212151/cf0050381ac94b1a8714082c22681402/artifacts
+end_time: 1722161549493
+entry_point_name: ''
+experiment_id: '276338412325212151'
+lifecycle_stage: active
+run_id: cf0050381ac94b1a8714082c22681402
+run_name: charming-bee-126
+run_uuid: cf0050381ac94b1a8714082c22681402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722161532752
+status: 3
+tags: []
+user_id: admin

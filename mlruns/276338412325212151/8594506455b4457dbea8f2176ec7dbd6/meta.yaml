@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/OneDrive/Desktop/ML%20Ops%20Workspace/4-mlflow/Loan%20Eligibillity%20Prediction%203/mlruns/276338412325212151/8594506455b4457dbea8f2176ec7dbd6/artifacts
+end_time: 1722160577452
+entry_point_name: ''
+experiment_id: '276338412325212151'
+lifecycle_stage: active
+run_id: 8594506455b4457dbea8f2176ec7dbd6
+run_name: dazzling-ray-646
+run_uuid: 8594506455b4457dbea8f2176ec7dbd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722160561677
+status: 3
+tags: []
+user_id: admin
